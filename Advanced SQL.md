@@ -108,7 +108,7 @@ DROP TABLE IF EXISTS mydataset.FavoriteColorAndMovie
 
 
 ## row_number, rank, dense_rank
-![[Difference between row_number vs rank vs dense_rank in SQL.png]]
+![](attachments/Difference between row_number vs rank vs dense_rank in SQL.png)
 
 The **difference between rank, row_number, and dense_rank is visible when there are duplicate records**.
 The row_number gives continuous numbers(rank may be random with duplicates), while rank and dense_rank give the same rank for duplicates, but the next number in rank is as per continuous order so you will see a jump but in dense_rank doesn't have any gap in rankings.
@@ -126,7 +126,7 @@ SELECT *,
 FROM REVENUE
 ORDER BY departmentID, year;
 ```
-![[rows_range_preceding_following3.jpg]]
+![](attachments/rows_range_preceding_following3.jpg)
 
 ### OVER Clause
 ```sql
@@ -188,7 +188,7 @@ ORDER BY departmentID, year;
 ```
 
 e.g. PRECEDING
-![[rows_range_preceding_following41.jpg]]
+![](attachments/rows_range_preceding_following41.jpg)
 
 #### Shortcut
 `Over(order by salary)` is just a short cut of `Over(order by salary RANGE BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW)`
@@ -225,4 +225,4 @@ WHERE year between 2003 and 2008
 ORDER BY departmentID, year;
 ```
 
-![[rows_range_preceding_following10.jpg]]
+![](attachments/rows_range_preceding_following10.jpg)

@@ -876,7 +876,7 @@
 
 
 # Syllabus
-![[4VmkhBljSKOZpIQZY1ijyg_0a978cdb91ef47e1bdff301364d98615_Screen-Shot-2021-03-03-at-12.57.36-PM.png]]
+![](attachments/4VmkhBljSKOZpIQZY1ijyg_0a978cdb91ef47e1bdff301364d98615_Screen-Shot-2021-03-03-at-12.57.36-PM.png)
 
 
 ## data analytics certificate roadmap
