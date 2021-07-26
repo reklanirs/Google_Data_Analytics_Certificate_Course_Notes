@@ -108,7 +108,7 @@ DROP TABLE IF EXISTS mydataset.FavoriteColorAndMovie
 
 
 ## row_number, rank, dense_rank
-![](attachments/Difference between row_number vs rank vs dense_rank in SQL.png)
+![](attachments/Difference_between_row_number_vs_rank_vs_dense_rank_in_SQL.png)
 
 The **difference between rank, row_number, and dense_rank is visible when there are duplicate records**.
 The row_number gives continuous numbers(rank may be random with duplicates), while rank and dense_rank give the same rank for duplicates, but the next number in rank is as per continuous order so you will see a jump but in dense_rank doesn't have any gap in rankings.

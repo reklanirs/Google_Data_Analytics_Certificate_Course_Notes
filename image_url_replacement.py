@@ -10,7 +10,8 @@ clear = lambda: os.system('cls' if os.name=='nt' else 'clear')
 #sys.stdin=open('in.txt','r')
 
 def strrepl(obj):
-    return f"![](attachments/{obj.group(0)[3:-2]})"
+    # print(obj.group(0)[3:-2].replace(' ','_'))
+    return f"![](attachments/{(obj.group(0)[3:-2]).replace(' ','_')})"
 
 def repfile(f):
     os.system(f'cp "{f}" "{f+".bk"}"')
