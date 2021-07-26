@@ -1,4 +1,4 @@
-# Google_Data_Analytics_Certificate_Course_Notes
+# Notes of the Google Data Analytics Certificate Courses
 This repository is a copy of my notes taken during the learning of the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) courses on Coursera.
 
 For more information, please visit my [Blog](https://notes.kanon.dev/my-notes).
@@ -10,6 +10,28 @@ For more information, please visit my [Blog](https://notes.kanon.dev/my-notes).
 The [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) course is comprised of 8 subcourses. Each subcourse requires about 4 to 5 weeks of study. (Official statement, but absolutely you can learn it quicker, like 5 times more :) 
 
 ![4VmkhBljSKOZpIQZY1ijyg_0a978cdb91ef47e1bdff301364d98615_Screen-Shot-2021-03-03-at-12.57.36-PM](README.assets/4VmkhBljSKOZpIQZY1ijyg_0a978cdb91ef47e1bdff301364d98615_Screen-Shot-2021-03-03-at-12.57.36-PM.png)
+
+
+
+**Outline**
+
+1. [**Foundations: Data, Data, Everywhere.**](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/0.%20Foundations%20--%20Data%2C%20Data%2C%20Everywhere.md)
+
+2. **[Ask Questions to Make Data-Driven Decisions](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/1.%20Ask%20Questions%20to%20Make%20Data-Driven%20Decisions.md)**
+
+3. [**Prepare Data for Exploration**](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/2.%20Prepare%20Data%20for%20Exploration.md)
+
+4. [**Process Data from Dirty to Clean**](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/3.%20Process%20Data%20from%20Dirty%20to%20Clean.md)
+
+5. [**Analyze Data to Answer Questions**](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/4.%20Analyze%20Data%20to%20Answer%20Questions.md)
+
+6. [**Share Data Through the Art of Visualization**](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/5.%20Share%20Data%20Through%20the%20Art%20of%20Visualization.md)
+
+7. [**Data Analysis with R Programming**](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/6.%20Data%20Analysis%20with%20R%20Programming.md)
+
+8. [**Data Analytics Capstone Project: Complete a Case Study**](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/7.%20Capstone%20--%20Complete%20a%20Case%20Study.md)
+
+
 
 ## Roadmap
 
