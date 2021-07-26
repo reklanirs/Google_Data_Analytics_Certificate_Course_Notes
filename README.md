@@ -33,6 +33,16 @@ The [Google Data Analytics Professional Certificate](https://www.coursera.org/pr
 
 
 
+## My opinion about this course
+
+Not that hard, not that easy. A convenient all-encompassing course for entry-level data analysts.
+
+Much of the parts in this courses are non-programming-related knowledge, so if you like me are a computer science based person, you may feel confused and boring.
+
+But it did cover knowledge points what I need but didn't recognize before.
+
+
+
 ## Roadmap
 
 ### Foundations
@@ -168,14 +178,4 @@ The [Google Data Analytics Professional Certificate](https://www.coursera.org/pr
 -   Communicating your unique value proposition to a potential employer
 
 
-
-
-
-## My opinion about this course
-
-Not that hard, not that easy. A convenient all-encompassing course for entry-level data analysts.
-
-Much of the parts in this courses are non-programming-related knowledge, so if you like me are a computer science based person, you may feel confused and boring.
-
-But it did cover knowledge points what I need but didn't recognize before.
 
