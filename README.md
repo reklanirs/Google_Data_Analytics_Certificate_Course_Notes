@@ -13,7 +13,6 @@ The [Google Data Analytics Professional Certificate](https://www.coursera.org/pr
 
 
 
-**Outline**
 
 1. [**Foundations: Data, Data, Everywhere.**](https://github.com/reklanirs/Google_Data_Analytics_Certificate_Course_Notes/blob/main/0.%20Foundations%20--%20Data%2C%20Data%2C%20Everywhere.md)
 
